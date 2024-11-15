@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/5419cf8939c5ef0d50000ef2
 def calculate_probability(n):
     if n <=1:
         return 0.00
